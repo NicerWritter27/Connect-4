@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "2-player Connect 4"
+  },
+  "appDesc": {
+    "message": "Play Connect four with your friend offline!"
+  },
+  "title": {
+    "message": "2-Player Connect 4"
+  },
+  "newGame": {
+    "message": "New Game"
+  },
+  "coin": {
+    "message": "Drop your coin here"
+  }
+}

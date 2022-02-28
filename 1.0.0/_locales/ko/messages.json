@@ -1,0 +1,17 @@
+{
+  "appName": {
+    "message": "2인용 커넥트 4"
+  },
+  "appDesc": {
+    "message": "오프라인에서 친구와 Connect Four를 플레이하세요!"
+  },
+  "title": {
+    "message": "2인용 커넥트 4"
+  },
+  "newGame": {
+    "message": "새로운 게임"
+  },
+  "coin": {
+    "message": "여기에 동전을 놓으십시오."
+  }
+}
